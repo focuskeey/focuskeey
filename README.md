@@ -1,32 +1,32 @@
-<h1 align="center">Welcome here, I'm Focusmentorv</h1>
+<h1 align="center">Welcome here, I'm Focuskeey</h1>
 <h3 align="center">| Software Engineer | Mechatronics Engineer | Full stack Developer | Data Scientist | Always Solving Your Problems! |</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=focusmentorv&label=Profile%20views&color=0e75b6&style=flat" alt="focusmentorv" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Focuskeey&label=Profile%20views&color=0e75b6&style=flat" alt="Focuskeey" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=focusmentorv" alt="focusmentorv" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Focuskeey" alt="Focuskeey" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/focusmentorv_" target="blank"><img src="https://img.shields.io/twitter/follow/focusmentorv_?logo=twitter&style=for-the-badge" alt="focusmentorv_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Focuskeey_" target="blank"><img src="https://img.shields.io/twitter/follow/Focuskeey_?logo=twitter&style=for-the-badge" alt="Focuskeey_" /></a> </p>
 
 - 🔭 I’m currently working on [SBALTIB](sbaltib.com)
 
 - 🌱 I’m currently learning **kotlin**
 
-- 👨‍💻 All of my projects are available at [focusmentorv.com](focusmentorv.com)
+- 👨‍💻 All of my projects are available at [focuskeey.com](focuskeey.com)
 
-- 📝 I regularly write articles on [blog.focusmentorv.com](blog.focusmentorv.com)
+- 📝 I regularly write articles on [blog.focuskeey.com](blog.focuskeey.com)
 
 - 💬 Ask me about **react, vue**
 
-- 📫 How to reach me **contact@focusmentorv.com**
+- 📫 How to reach me **contact@focuskeey.com**
 
-- 📄 Know about my experiences [focusmentorv.com/resume](focusmentorv.com/resume)
+- 📄 Know about my experiences [focuskeey.com/resume](focuskeey.com/resume)
 
 - ⚡ Fun fact **Learning dont end!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/focusmentorv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="focusmentorv" height="30" width="40" /></a>
-<a href="https://twitter.com/focusmentorv_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="focusmentorv_" height="30" width="40" /></a>
+<a href="https://dev.to/focuskeey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="focuskeey" height="30" width="40" /></a>
+<a href="https://twitter.com/focuskeey_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="focusmentorv_" height="30" width="40" /></a>
 
 <a href="https://stackoverflow.com/users/focusmentorv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="focusmentorv" height="30" width="40" /></a>
 <a href="https://codesandbox.com/focusmentorv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="focusmentorv" height="30" width="40" /></a>
